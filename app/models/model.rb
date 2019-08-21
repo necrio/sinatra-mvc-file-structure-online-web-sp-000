@@ -1,7 +1,9 @@
   class Dog
     
     attr_reader :breed 
-    attr_accessor 
+    attr_accessor :name, :age 
+    
+    def 
     
     
     
