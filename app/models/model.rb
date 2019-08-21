@@ -5,7 +5,7 @@
     
     @@dogs = [] 
     
-    
+    def initalize 
     
     
     
