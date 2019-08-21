@@ -12,7 +12,8 @@
       @@dogs << self 
     end 
     
-    
+    def self.all 
+      
       
     
     
