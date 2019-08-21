@@ -9,7 +9,8 @@
       @name = name
       @breed = breed 
       @age = age 
-      @@dogs << self
+      @@dogs << self 
+      
       
     
     
