@@ -10,7 +10,9 @@
       @breed = breed 
       @age = age 
       @@dogs << self 
-      
+    end 
+    
+    
       
     
     
