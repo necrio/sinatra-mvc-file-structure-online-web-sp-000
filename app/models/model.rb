@@ -5,7 +5,8 @@
     
     @@dogs = [] 
     
-    def initalize 
+    def initalize(name, breed, age) 
+      
     
     
     
