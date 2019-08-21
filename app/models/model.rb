@@ -1,6 +1,6 @@
   class Dog
     
-    attr
+    attr_reader 
     
     
     
